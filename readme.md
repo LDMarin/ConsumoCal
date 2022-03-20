@@ -1,4 +1,4 @@
-# Calculadora de consumo electrico para CNFL :grinning:
+# Calculadora de consumo eléctrico para CNFL :grinning:
 
 ---
 
